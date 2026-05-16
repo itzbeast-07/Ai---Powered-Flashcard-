@@ -64,3 +64,4 @@ types.ts
 ## Author
 
 Developed as an AI/ML academic project.
+Aarsh Vardhan
