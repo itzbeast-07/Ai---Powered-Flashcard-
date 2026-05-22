@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Adaptive Learner",
+  "description": "A personalized diagnostic tool that assesses your knowledge on any topic and generates custom adaptive flashcards to bridge your gaps.",
+  "requestFramePermissions": []
+}
